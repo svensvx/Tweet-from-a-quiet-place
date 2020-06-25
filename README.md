@@ -8,6 +8,8 @@ After you've put in all of the authentication keys and credentials into the Twee
 
 Write your Tweet in the Twee.txt file and run the script.
 
+![Screen Shot 2020-06-25 at 11 57 26](https://user-images.githubusercontent.com/54776736/85699169-96a96b80-b6db-11ea-903d-a16515580fe8.png)
+
 It will check if your Tweet is short enough and then ask you to confirm the send. 
 
 That's it.
