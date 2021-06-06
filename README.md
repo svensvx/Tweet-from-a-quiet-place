@@ -1,4 +1,4 @@
-# Tweet-From-A-Quiet-Place
+# Tweet From A Quiet Place
 A Python script that lets you Tweet without visiting the Twitter website or using the App.
 
 ## How To Use
